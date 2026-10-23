@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="245" viewBox="0 0 1200 245" role="img" aria-labelledby="title desc">
-  <title id="title">Leonardo E. S. Silva</title>
+  <title id="title">Leonardo do Espírito Santo da Silva</title>
   <desc id="desc">Infraestrutura, Redes e Segurança da Informação, DevOps e automação</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
@@ -19,7 +19,7 @@
   <rect width="1200" height="245" rx="12" fill="url(#grid)"/>
   <path d="M790 0 L1200 0 L1200 245 L1030 245 Z" fill="#38bdf8" opacity="0.06"/>
   <rect x="44" y="38" width="5" height="164" rx="2" fill="url(#accent)"/>
-  <text x="72" y="90" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="43" letter-spacing="0.5">LEONARDO E. S. SILVA</text>
+  <text x="72" y="90" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="35" letter-spacing="0.2">LEONARDO DO ESPÍRITO SANTO DA SILVA</text>
   <text x="73" y="127" fill="#b8e5ff" font-family="Arial, Helvetica, sans-serif" font-size="21">Infraestrutura  &#8226;  Redes &amp; Segurança  &#8226;  DevOps</text>
   <text x="73" y="163" fill="#e2e8f0" font-family="Arial, Helvetica, sans-serif" font-size="17">Automação  &#8226;  Observabilidade  &#8226;  Tecnologia</text>
   <rect x="72" y="184" width="193" height="27" rx="13" fill="#0b2948" stroke="#2ba9d0" stroke-width="1"/>
