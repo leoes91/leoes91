@@ -29,7 +29,20 @@ Atuo no **Ministério Público do Estado de Mato Grosso (MPMT)**, na área de re
 ## 🛠️ Tecnologias e áreas de atuação
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,windows,bash,powershell,python,docker,ansible,terraform,azure,github,postgres&perline=6" alt="Linux, Windows, Bash, PowerShell, Python, Docker, Ansible, Terraform, Azure, GitHub e PostgreSQL" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux,windows,bash,powershell,python,docker&amp;theme=dark&amp;perline=6" />
+    <img src="https://skillicons.dev/icons?i=linux,windows,bash,powershell,python,docker&amp;theme=light&amp;perline=6" alt="Linux, Windows, Bash, PowerShell, Python e Docker" />
+  </picture>
+</p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ansible,terraform,azure,github,postgres&amp;theme=dark&amp;perline=5" />
+    <img src="https://skillicons.dev/icons?i=ansible,terraform,azure,github,postgres&amp;theme=light&amp;perline=5" alt="Ansible, Terraform, Azure, GitHub e PostgreSQL" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leoes91/leoes91/main/assets/packer-dark.svg" />
+    <img src="https://raw.githubusercontent.com/leoes91/leoes91/main/assets/packer-light.svg" width="48" height="48" alt="HashiCorp Packer" />
+  </picture>
 </p>
 
 <details open>
@@ -39,10 +52,8 @@ Atuo no **Ministério Público do Estado de Mato Grosso (MPMT)**, na área de re
   <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white" alt="VMware" />
   <img src="https://img.shields.io/badge/Huawei-D00000?style=flat-square&logo=huawei&logoColor=white" alt="Huawei" />
   <img src="https://img.shields.io/badge/Dell-007DB8?style=flat-square&logo=dell&logoColor=white" alt="Dell" />
-  <img src="https://img.shields.io/badge/BGP%20%7C%20VLAN%20%7C%20VPN-1D4ED8?style=flat-square" alt="BGP, VLAN e VPN" />
-  <img src="https://img.shields.io/badge/PacketFence-345995?style=flat-square" alt="PacketFence" />
+  <img src="https://img.shields.io/badge/LAN%20%7C%20WLAN%20%7C%20BGP-1D4ED8?style=flat-square" alt="LAN, WLAN e BGP" />
   <img src="https://img.shields.io/badge/AWX-111111?style=flat-square&logo=ansible&logoColor=white" alt="AWX" />
-  <img src="https://img.shields.io/badge/Packer-02A8EF?style=flat-square&logo=packer&logoColor=white" alt="Packer" />
   <img src="https://img.shields.io/badge/Zabbix-D40000?style=flat-square&logo=zabbix&logoColor=white" alt="Zabbix" />
 </p>
 </details>
