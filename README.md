@@ -2,7 +2,7 @@
 <!-- Modelo personalizado com base no README fornecido pelo usuário. -->
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/leoes91/leoes91/main/assets/header.svg?v=2" alt="Banner Leonardo do Espírito Santo da Silva - Infraestrutura, Redes, Segurança e DevOps" />
+  <img width="100%" src="https://raw.githubusercontent.com/leoes91/leoes91/main/assets/header-nome-completo.svg" alt="Banner Leonardo do Espírito Santo da Silva - Infraestrutura, Redes, Segurança e DevOps" />
 </p>
 
 <p align="center">
@@ -28,22 +28,56 @@ Atuo no **Ministério Público do Estado de Mato Grosso (MPMT)**, na área de re
 
 ## 🛠️ Tecnologias e áreas de atuação
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux,windows,bash,powershell,python,docker&amp;theme=dark&amp;perline=6" />
-    <img src="https://skillicons.dev/icons?i=linux,windows,bash,powershell,python,docker&amp;theme=light&amp;perline=6" alt="Linux, Windows, Bash, PowerShell, Python e Docker" />
-  </picture>
-</p>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ansible,terraform,azure,github,postgres&amp;theme=dark&amp;perline=5" />
-    <img src="https://skillicons.dev/icons?i=ansible,terraform,azure,github,postgres&amp;theme=light&amp;perline=5" alt="Ansible, Terraform, Azure, GitHub e PostgreSQL" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leoes91/leoes91/main/assets/packer-dark.svg" />
-    <img src="https://raw.githubusercontent.com/leoes91/leoes91/main/assets/packer-light.svg" width="48" height="48" alt="HashiCorp Packer" />
-  </picture>
-</p>
+<table align="center">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <strong>⚙️ Automação e infraestrutura como código</strong>
+      <p align="center">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ansible,terraform&amp;theme=dark&amp;perline=2" />
+          <img src="https://skillicons.dev/icons?i=ansible,terraform&amp;theme=light&amp;perline=2" alt="Ansible e Terraform" />
+        </picture>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leoes91/leoes91/main/assets/packer-dark.svg" />
+          <img src="https://raw.githubusercontent.com/leoes91/leoes91/main/assets/packer-light.svg" width="48" height="48" alt="Packer" />
+        </picture>
+      </p>
+      <sub>Ansible · Terraform · Packer</sub>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <strong>🐳 Git, terminal e contêineres</strong>
+      <p align="center">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=github,bash,docker&amp;theme=dark&amp;perline=3" />
+          <img src="https://skillicons.dev/icons?i=github,bash,docker&amp;theme=light&amp;perline=3" alt="GitHub, Bash (Git Bash) e Docker" />
+        </picture>
+      </p>
+      <sub>GitHub · Git Bash · Docker</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <strong>☁️ Sistemas e nuvem</strong>
+      <p align="center">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux,windows,azure,powershell&amp;theme=dark&amp;perline=4" />
+          <img src="https://skillicons.dev/icons?i=linux,windows,azure,powershell&amp;theme=light&amp;perline=4" alt="Linux, Windows Server, Microsoft Azure e PowerShell" />
+        </picture>
+      </p>
+      <sub>Linux · Windows Server · Azure · PowerShell</sub>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <strong>🐍 Desenvolvimento e dados</strong>
+      <p align="center">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,postgres&amp;theme=dark&amp;perline=2" />
+          <img src="https://skillicons.dev/icons?i=python,postgres&amp;theme=light&amp;perline=2" alt="Python e SQL (PostgreSQL)" />
+        </picture>
+      </p>
+      <sub>Python · SQL (PostgreSQL)</sub>
+    </td>
+  </tr>
+</table>
 
 <details open>
 <summary><b>🔧 Infraestrutura, redes, automação e monitoramento</b></summary>
