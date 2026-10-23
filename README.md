@@ -2,20 +2,14 @@
 <!-- Modelo personalizado com base no README fornecido pelo usuário. -->
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:13294B,50:2563EB,100:0891B2&height=220&section=header&text=Leonardo%20E.%20S.%20Silva&fontSize=47&fontColor=ffffff&animation=fadeIn&fontAlignY=37&desc=Infraestrutura%20%E2%80%A2%20Redes%20%26%20Seguran%C3%A7a%20%E2%80%A2%20DevOps&descAlignY=59&descSize=17&descColor=ffffff" alt="Banner: Leonardo E. S. Silva - Infraestrutura, Segurança e DevOps" />
+  <img width="100%" src="https://raw.githubusercontent.com/leoes91/leoes91/main/assets/header.svg" alt="Banner Leonardo E. S. Silva - Infraestrutura, Redes, Segurança e DevOps" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/leoes91">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=1000&color=75B6FF&center=true&vCenter=true&width=840&height=55&lines=Ol%C3%A1%2C%20eu%20sou%20o%20Leonardo%21%20%F0%9F%91%8B;Infraestrutura%20%7C%20Redes%20%7C%20Seguran%C3%A7a%20da%20Informa%C3%A7%C3%A3o;DevOps%20%7C%20Automa%C3%A7%C3%A3o%20%7C%20Observabilidade;Tecnologia%2C%20confiabilidade%20e%20melhoria%20cont%C3%ADnua" alt="Apresentação profissional animada" />
-  </a>
+  <strong>Redes corporativas · Segurança da Informação · DevOps · Automação · Observabilidade</strong>
 </p>
 
-<p align="center">
-  <a href="https://github.com/leoes91">
-    <img src="https://komarev.com/ghpvc/?username=leoes91&color=2563EB&style=flat-square&label=Visualiza%C3%A7%C3%B5es+do+perfil" alt="Visualizações do perfil" />
-  </a>
-</p>
+
 
 ## 👨‍💻 Sobre mim
 
@@ -131,5 +125,5 @@ Atuo no **Ministério Público do Estado de Mato Grosso (MPMT)**, na área de re
 </p>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:2563EB,100:13294B&height=115&section=footer" alt="Rodapé decorativo" />
+  <img width="100%" src="https://raw.githubusercontent.com/leoes91/leoes91/main/assets/footer.svg" alt="Rodapé decorativo" />
 </p>
