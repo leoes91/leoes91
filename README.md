@@ -30,7 +30,7 @@ Atuo no **Ministério Público do Estado de Mato Grosso (MPMT)**, na área de re
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ansible,terraform&amp;theme=dark&amp;perline=2" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ansible%2Cterraform&amp;theme=dark&amp;perline=2" />
     <img src="https://skillicons.dev/icons?i=ansible,terraform&amp;theme=light&amp;perline=2" alt="Ansible e Terraform" />
   </picture>
   <picture>
@@ -38,14 +38,14 @@ Atuo no **Ministério Público do Estado de Mato Grosso (MPMT)**, na área de re
     <img src="https://raw.githubusercontent.com/leoes91/leoes91/main/assets/packer-light.svg" width="48" height="48" alt="Packer" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=github,docker&amp;theme=dark&amp;perline=2" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=github%2Cdocker&amp;theme=dark&amp;perline=2" />
     <img src="https://skillicons.dev/icons?i=github,docker&amp;theme=light&amp;perline=2" alt="GitHub e Docker" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux,windows,azure,powershell,python,postgres&amp;theme=dark&amp;perline=6" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux%2Cwindows%2Cazure%2Cpowershell%2Cpython%2Cpostgres&amp;theme=dark&amp;perline=6" />
     <img src="https://skillicons.dev/icons?i=linux,windows,azure,powershell,python,postgres&amp;theme=light&amp;perline=6" alt="Linux, Windows Server, Azure, PowerShell, Python e PostgreSQL" />
   </picture>
 </p>
