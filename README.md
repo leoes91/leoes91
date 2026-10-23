@@ -116,13 +116,6 @@ Atuo no **Ministério Público do Estado de Mato Grosso (MPMT)**, na área de re
 
 <!-- Se desejar, adicione aqui LinkedIn e e-mail profissional. -->
 
-<!-- Snake: o workflow .github/workflows/snake.yml publica os SVGs na branch output. -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leoes91/leoes91/output/github-snake-dark.svg" />
-    <img alt="Animação das contribuições do GitHub" src="https://raw.githubusercontent.com/leoes91/leoes91/output/github-snake.svg" />
-  </picture>
-</p>
 
 <p align="center">
   <img width="100%" src="https://raw.githubusercontent.com/leoes91/leoes91/main/assets/footer.svg" alt="Rodapé decorativo" />
