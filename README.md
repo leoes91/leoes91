@@ -47,16 +47,6 @@ Atuo no **Ministério Público do Estado de Mato Grosso (MPMT)**, na área de re
 </p>
 </details>
 
-<details open>
-<summary><b>📚 Laboratórios, cursos e atividades pontuais</b></summary>
-<br />
-
-- **Prometheus e Grafana:** prática em laboratórios de observabilidade da pós-graduação em DevOps no IFMT.
-- **Wazuh:** distribuição/implantação de agentes Windows por GPO. Não realizei a implantação do servidor Wazuh.
-- **Fortinet:** curso introdutório; sem experiência aprofundada em configuração de políticas ou regras de firewall.
-
-</details>
-
 ## 🚀 Projetos públicos
 
 <table>
