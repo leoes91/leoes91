@@ -2,7 +2,7 @@
 <!-- Modelo personalizado com base no README fornecido pelo usuário. -->
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/leoes91/leoes91/main/assets/header.svg" alt="Banner Leonardo E. S. Silva - Infraestrutura, Redes, Segurança e DevOps" />
+  <img width="100%" src="https://raw.githubusercontent.com/leoes91/leoes91/main/assets/header.svg?v=2" alt="Banner Leonardo do Espírito Santo da Silva - Infraestrutura, Redes, Segurança e DevOps" />
 </p>
 
 <p align="center">
